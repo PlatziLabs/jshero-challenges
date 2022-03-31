@@ -1,0 +1,21 @@
+{
+  "name": "jshero",
+  "version": "0.1.0",
+  "description": "JSHero a simple JavaScript daily Quiz",
+  "license": "MIT",
+  "author": {
+    "name": "Oscar Barajas <oscar@platzi.com>",
+    "url": "https://gndx.dev"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/platzi/jshero-challenges.git"
+  },
+  "homepage": "https://jshero.platzi.com",
+  "scripts": {
+    "compose": "node scripts/compose.js"
+  }
+}
