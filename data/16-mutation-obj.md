@@ -7,7 +7,7 @@ explanation: 'En JavaScript existen dios tipos de asignaciones por referencia vs
 
 <br /><br />
 
-La asignacón por valor funciona en los valores primitivos, como por ejemplo:
+La asignación por valor funciona en los valores primitivos, como por ejemplo:
 <br /><br />
 
 <code>
@@ -38,8 +38,8 @@ level: 'intermediate'
 ---
 
 ```javascript
-const person = {name: 'nico', age:28}
+const person = { name: "nico", age: 28 };
 const newPerson = person;
-newPerson.name = 'santi';
+newPerson.name = "santi";
 console.log(person.name);
 ```
