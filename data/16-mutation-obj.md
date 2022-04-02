@@ -3,7 +3,7 @@ title: '¿Cuál es resultado de person.name?'
 createdAt: '2022-03-31T04:11:00.096Z'
 answers: ['nico', 'santi', 'null', 'undefined']
 response: 1
-explanation: 'En JavaScript existen dios tipos de asignaciones por referencia vs. por valor y esta diferencia es clave, ya que puede producir comportamientos inesperados.
+explanation: 'En JavaScript existen dos tipos de asignaciones por referencia vs. por valor y esta diferencia es clave, ya que puede producir comportamientos inesperados.
 
 <br /><br />
 
