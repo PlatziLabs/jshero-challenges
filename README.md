@@ -1,4 +1,4 @@
-# JSHero - jshero.platzi.com
+# JSHero - jshero.platzi.com 💻
 
 Create a new challenge for jshero.platzi.com, share your experience creating amazing challenges.
 
@@ -10,7 +10,7 @@ npm run compose
 
 ### Structure of a challenge:
 
-```
+```javascript
 ---
 title: ¿Cuál es el resultado del siguiente código?
 createdAt: '2022-03-17T05:00:00.954Z'
@@ -36,4 +36,4 @@ const array = ['a', 'bb', 'ccc'];
 const rta = array.map((item) => item.length);
 ```
 
-### Have Fun!
+### Have Fun! 😎
