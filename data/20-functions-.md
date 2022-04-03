@@ -12,12 +12,14 @@ explanation: 'Con una función como la primera es posible hacer esto:
 
 <br /><br />
 
-<code>
-    console.log(suma(3,5)); //8
-    function sumar(a, b){
-    return a + b;
-    }
-</code>
+<pre>
+    <code>
+        console.log(suma(3,5)); //8<br />
+        function sumar(a, b){<br />
+        return a + b;<br />
+        }
+    </code>
+</pre>
 
 <br /><br />
 
@@ -29,15 +31,31 @@ Con una función de flecha esto no es posible:
 
 <br /><br />
 
-<code>
-    console.log(sumar(3,5)); // ReferenceError: can't access lexical declaration 'sumar' before initialization 
+<pre>
+    <code>
+        console.log(sumar(3,5)); // ReferenceError: can't access lexical declaration 'sumar' before initialization<br />
 
-    const sumar = (a, b) => {
-    return a + b;
-    }
-</code>'
+        const sumar = (a, b) => {<br />
+        return a + b;<br />
+        }
+    </code>
+</pre>
+
+'
 author: 'cris-dux'
 course: 'Curso de ECMAScript 6+'
 reference: 'https://platzi.com/cursos/ecmascript-6/'
 level: 'basic'
 ---
+
+```javascript
+// primera función
+function sumar(a, b){
+  return a + b;
+}
+
+// segunda función
+const sumar = (a, b) => {
+  return a + b;
+}
+```
