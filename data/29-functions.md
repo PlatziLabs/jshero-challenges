@@ -10,7 +10,7 @@ reference: 'https://platzi.com/cursos/ecmascript-6/'
 level: 'basic'
 ---
 
-```
+```javascript
 function sayHi(name) {
   return `Hi there, ${name}`
 }
