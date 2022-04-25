@@ -11,7 +11,7 @@ explanation: 'Una variable de tipo Symbol cumple con 3 caracteristicas principal
     <li>No es un elemento enumerable.</li>
     <li>Permite representar valores completamente únicos en el código, útil para crear llaves de objetos y evitar colisiones.</li>
     <li>Podemos crear propiedades "ocultas" en objetos.</li>
-<ul/>
+</ul>
 
 <br /><br />
 
