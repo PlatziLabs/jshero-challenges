@@ -1,5 +1,5 @@
 ---
-title: '41-short-circuit'
+title: 'Explica este código JavaScript 😎'
 createdAt: '2022-05-01T15:12:18.859Z'
 answers: [
     'false null []', 
