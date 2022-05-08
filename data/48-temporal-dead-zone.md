@@ -1,5 +1,5 @@
 ---
-title: '48-temporal-dead-zone'
+title: 'Explica este código JavaScript 😬'
 createdAt: '2022-05-08T02:36:07.291Z'
 answers: ['Lydia', 'Sarah', 'undefined', 'ReferenceError']
 response: 3
