@@ -1,5 +1,5 @@
 ---
-title: '47-arrays-objects'
+title: 'Explica este código JavaScript 😬'
 createdAt: '2022-05-08T02:23:10.142Z'
 answers: [
     '['🍕', '🍫', '🥑', '🍔']', 
