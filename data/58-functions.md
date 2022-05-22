@@ -1,5 +1,5 @@
 ---
-title: '58-functions'
+title: '🚀El siguiente código hace referencia a una función de tipo:'
 createdAt: '2022-05-22T02:28:45.499Z'
 answers: ['Asincrona', 'Declarativa', 'Expresiva', 'Clousure']
 response: 1
