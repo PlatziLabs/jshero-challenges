@@ -1,5 +1,5 @@
 ---
-title: '61-is-array'
+title: 'Explica este código JavaScript 😬'
 createdAt: '2022-05-25T04:00:17.246Z'
 answers: ['true', 'false', '[]', 'ReferenceError']
 response: 0
