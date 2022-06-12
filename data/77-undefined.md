@@ -1,5 +1,5 @@
 ---
-title: 'Explica este código JavaScript'
+title: '¿Cúal de los siguientes ejemplos regresa undefined por consola?'
 createdAt: '2022-06-12T17:15:05.933Z'
 answers: [
     'Solo el ejemplo #1', 
